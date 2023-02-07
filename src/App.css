@@ -36,3 +36,38 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  padding: 10px;
+  margin: 10px;
+}
+div{
+  margin-top: 5px;
+}
+
+#alkometri{
+  display: inline-block;
+  vertical-align: middle;
+}
+
+body{
+  background-image: url(/Sandels.png);
+  background-repeat: no-repeat;
+  background-size: 500px;
+  font-size: 30px;
+  font-family:fantasy;
+}
+h3{
+  font-size: 30px;
+  color: rgb(189, 192, 36);
+}
+div{
+  font-size: 30px;
+  font:900;
+  color: rgb(0, 0, 0);
+  font:larger;
+}
+p{
+  font-size: 60px;
+  color: rgb(189, 192, 36);
+}
